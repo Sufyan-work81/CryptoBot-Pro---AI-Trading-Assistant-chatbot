@@ -8,6 +8,10 @@ A sophisticated web-based cryptocurrency trading chatbot interface that provides
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
+![image](
+<img width="1326" height="704" alt="chatbotmain" src="https://github.com/user-attachments/assets/75a100a6-1d44-4e1d-be4d-ff203e2e30c7" />
+
+)
 ## ✨ Features
 
 ### 🎯 Core Functionality
